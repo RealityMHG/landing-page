@@ -34,23 +34,25 @@ body {
 .logo {
     font-size: 24px;
     color: #f9faf8;
-    margin: 10px 100px;
+    margin: 18px 208px;
     font-weight: bold;
 }
 
 .links {
     display: flex;
     align-items: center;
-    margin: 10px 100px;
+    margin: 18px 140px;
 }
 
 .links-list {
     display: flex;
-    gap: 20px;
+    gap: 24px;
 }
 
 .top {
     background-color: aquamarine;
+    display: flex;
+    flex-grow: 1;
 }
 
 .mid {
