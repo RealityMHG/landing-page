@@ -99,7 +99,28 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 105px 205px;
+    padding: 50px 220px;
+    gap: 25px;
+}
+
+.mid-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.mid-images {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.mid-image-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.mid-image-img {
+    margin: 10px 10px;
 }
 
 .mid-low {
